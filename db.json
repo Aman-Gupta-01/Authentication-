@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "id": "guptaman2007@gmail.com",
+      "name": "Aman Gupta",
+      "password": "Aman@1234"
+    },
+    {
+      "id": "palak@p.com",
+      "name": "Palak ",
+      "password": "12345678"
+    },
+    {
+      "id": "admin@gmail.com",
+      "name": "Ramesh",
+      "password": "123456"
+    },
+    {
+      "id": "ritik@ritik.ritik",
+      "name": "User",
+      "password": "ritik"
+    },
+    {
+      "id": "rajendra@gmail.com",
+      "name": "Rajendra Gupta",
+      "password": "Rajendra@123"
+    }
+  ]
+}
